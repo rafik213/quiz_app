@@ -1,0 +1,11 @@
+# flyctl launch added from vendor\fig\http-message-util\.gitignore
+vendor\fig\http-message-util\**\vendor
+
+# flyctl launch added from vendor\readdle\app-store-server-api\.gitignore
+vendor\readdle\app-store-server-api\**\.idea
+vendor\readdle\app-store-server-api\**\.php-cs-fixer.cache
+vendor\readdle\app-store-server-api\**\.phpunit.result.cache
+vendor\readdle\app-store-server-api\**\examples\credentials.json
+vendor\readdle\app-store-server-api\**\examples\notification.json
+vendor\readdle\app-store-server-api\**\vendor
+fly.toml
